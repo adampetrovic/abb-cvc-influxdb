@@ -1,0 +1,8 @@
+check_interval: 86400
+num_days: 1825
+cvcs:
+  - lakemba
+influxdb:
+  host: nuc.lan
+  port: 8086
+  db: abb-cvc
